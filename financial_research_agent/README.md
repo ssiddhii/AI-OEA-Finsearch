@@ -141,10 +141,10 @@ finresearch-ai/
 ## 👤 Author
 
 Built as a portfolio project for financial AI / agentic systems.  
-Krutika Pingale UEC2023250
-Mahek Shah UEC2023258
-Sharwari Tijare UEC2023260
-Siddhi Chaudhari UEC2023263
+# Krutika Pingale UEC2023250
+# Mahek Shah UEC2023258
+# Sharwari Tijare UEC2023260
+# Siddhi Chaudhari UEC2023263
 
 ---
 
