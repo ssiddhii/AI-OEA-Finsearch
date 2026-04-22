@@ -63,7 +63,7 @@ cp .env.example .env
 ```
 
 Get your keys:
-- **Anthropic:** https://aistudio.google.com
+- **Google AI Studio:** https://aistudio.google.com
 - **NewsAPI (free):** https://newsapi.org
 
 ### 3. Run the app
@@ -141,8 +141,11 @@ finresearch-ai/
 ## 👤 Author
 
 Built as a portfolio project for financial AI / agentic systems.  
-Relevant for roles in: fintech, quantitative research, AI/ML engineering, data science.
+Krutika Pingale UEC2023250
+Mahek Shah UEC2023258
+Sharwari Tijare UEC2023260
+Siddhi Chaudhari UEC2023263
 
 ---
 
-*Disclaimer: This tool is for educational and demonstration purposes only. It does not constitute financial advice.*
+*Disclaimer: This tool is for educpurposes only. It does not constitute financial advice.*
